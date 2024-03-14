@@ -9,7 +9,7 @@ Template for building a [Node.js](https://nodejs.org/en) backend.
 - [x] [dotenv](https://github.com/motdotla/dotenv) environment variables
 - [x] [jest](https://github.com/jestjs/jest) & [supertest](https://github.com/ladjs/supertest) testing
 
-## Improment ideas
+## Improvement ideas
 
 - [ ] Add GitHub Actions to automatically run tests
 - [ ] Write a description of the directory structure
