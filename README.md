@@ -2,6 +2,7 @@
 
 Template for building a [Node.js](https://nodejs.org/en) backend.
 
+[![build](https://github.com/1uss1/node-backend-template/actions/workflows/build.yml/badge.svg)](https://github.com/1uss1/node-backend-template/actions/workflows/build.yml)
 [![tests](https://github.com/1uss1/node-backend-template/actions/workflows/test.yml/badge.svg)](https://github.com/1uss1/node-backend-template/actions/workflows/test.yml)
 
 ## Uses
