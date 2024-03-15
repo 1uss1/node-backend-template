@@ -26,7 +26,6 @@ You are good to go!
 
 ## Improvement ideas
 
-- [ ] Add GitHub Actions to automatically run tests
 - [ ] Write a description of the directory structure
 - [ ] Add Dockerfile
 
